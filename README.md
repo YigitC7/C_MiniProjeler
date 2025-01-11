@@ -1,1 +1,1 @@
-# C_MiniProjeler
+# C dili mini projeler
